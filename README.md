@@ -223,9 +223,3 @@ description length, and unique words.
 
 This project strengthened my understanding of Python fundamentals while providing practical experience in data cleaning, text processing, functions,
 loops, and basic data analysis.
-
-
-
-Aspiring Data Analyst
-
-**Skills:** Python | SQL | Excel | Power BI | MySQL
